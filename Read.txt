@@ -1,0 +1,6 @@
+-- Flair causes issue with pipenv so used conda virtual env
+-- created conda virtual env using python 3.7 purposely
+-- created conda from Pycharm preferences area 
+-- first install pytorch using plus sign and selecting conda env
+-- initiated pycharm from anaconda navigator and then opening project from pycharm once it is open
+-- Use command pip install flair and it works
