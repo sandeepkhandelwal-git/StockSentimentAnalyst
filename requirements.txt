@@ -29,7 +29,6 @@ konoha==4.6.2
 langdetect==1.0.8
 lxml==4.6.2
 matplotlib==3.3.3
-mkl-fft==1.2.0
 mkl-random==1.1.0
 mkl-service==2.3.0
 mpld3==0.3
