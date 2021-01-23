@@ -1,7 +1,7 @@
 asgiref==3.3.1
 bpemb==0.3.2
 certifi==2020.12.5
-cffi @ file:///C:/ci/cffi_1606255207413/work
+cffi==1.14.4
 chardet==4.0.0
 click==7.1.2
 cloudpickle==1.6.0
@@ -35,15 +35,16 @@ mkl-service==2.3.0
 mpld3==0.3
 multitasking==0.0.9
 networkx==2.5
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+numpy==1.19.2
 overrides==3.0.0
 packaging==20.8
 pandas==1.2.0
 Pillow==8.1.0
+pip==20.3.3
 plotly==4.14.3
 protobuf==3.14.0
 psycopg2==2.8.6
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser==2.20
 pyparsing==2.4.7
 PySocks==1.7.1
 python-dateutil==2.8.1
@@ -57,18 +58,20 @@ scikit-learn==0.24.0
 scipy==1.6.0
 segtok==1.5.10
 sentencepiece==0.1.91
-six @ file:///C:/ci/six_1605205426665/work
+setuptools==51.1.2.post20210112
+six==1.15.0
 smart-open==4.1.0
 sqlitedict==1.7.0
 sqlparse==0.4.1
 tabulate==0.8.7
 threadpoolctl==2.1.0
 tokenizers==0.9.3
-torch @ file:///C:/ci/pytorch_1596721630134/work
+torch==1.6.0
 tqdm==4.56.0
 transformers==3.5.1
 urllib3==1.26.2
 wcwidth==0.2.5
+wheel==0.36.2
 whitenoise==5.2.0
 wincertstore==0.2
 wordcloud==1.8.1

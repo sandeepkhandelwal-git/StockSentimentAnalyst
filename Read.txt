@@ -4,3 +4,7 @@
 -- first install pytorch using plus sign and selecting conda env
 -- initiated pycharm from anaconda navigator and then opening project from pycharm once it is open
 -- Use command pip install flair and it works
+-- while creating requirements.txt some of the packages were getting references from conda virtual env.
+   for ex:numpy @ file:///C:/ci/numpy_and_numpy_base_1596215850360/work
+   to overcome this I used
+   pip list --format=freeze > requirements.txt to create requirement file
